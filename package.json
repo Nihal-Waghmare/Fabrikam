@@ -1,0 +1,23 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "Fabrikam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihal-Waghmare/Fabrikam.git"
+  },
+  "author": "Nihal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nihal-Waghmare/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/Nihal-Waghmare/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
